@@ -232,7 +232,7 @@
             // 
             // pbResim
             // 
-            this.pbResim.Location = new System.Drawing.Point(70, 194);
+            this.pbResim.Location = new System.Drawing.Point(69, 194);
             this.pbResim.Name = "pbResim";
             this.pbResim.Size = new System.Drawing.Size(187, 130);
             this.pbResim.TabIndex = 51;
